@@ -1,0 +1,11 @@
+,icu,mv,death
+1,Oxygen saturation in Arterial blood by P (clin),Lactate (lab),Lactate (lab)
+2,Lactate (lab),Glucose (lab),Oxygen saturation in Arterial blood by P (clin)
+3,Bicarbonate (lab),Oxygen saturation in Arterial blood by P (clin),age (clin)
+4,Respiratory rate (clin),acei_v (clin),malignancies_v (clin)
+5,Sodium (lab),Body mass index (BMI) (clin),Erythrocyte sedimentation rate (lab)
+6,smoking_Never (clin),original_ngtdm_Complexity (rad),Neutrophils (lab)
+7,original_firstorder_Skewness (rad),Chloride (lab),dyspnea_admission_v (clin)
+8,original_firstorder_10Percentile (rad),original_shape_MajorAxisLength (rad),Glucose (lab)
+9,original_firstorder_Median (rad),Fibrin D-dimer DDU (lab),Body mass index (BMI) (clin)
+10,original_firstorder_Mean (rad),Ferritin (lab),ckd_v (clin)
